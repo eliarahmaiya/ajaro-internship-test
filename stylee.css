@@ -1,0 +1,26 @@
+.jdl{
+	background-color : black;
+	color: white;
+	line-height : 1.5cm;
+	text-align : center;
+}
+.int{
+	border-radius : 11px;
+	line-height: 1cm;
+}
+.btn{
+	background-color: green;
+	border : none;
+	border-radius : 11px;
+	line-height: 1cm;
+	color: white;
+}
+.eh{
+	word-spacing: 1cm;
+
+}
+
+.aa{
+	border-radius : 11px;
+	line-height: 3cm;
+}
